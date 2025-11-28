@@ -1,10 +1,10 @@
 {
-  "name": "create-npm-cmd",
+  "name": "tehlug",
   "version": "1.0.0",
   "type": "module",
   "main": "./dist/cli.cjs",
   "bin": {
-    "my-awesome-npm-cmd": "./dist/cli.cjs"
+    "tehlug": "./dist/cli.cjs"
   },
   "scripts": {
     "build": "tsup",

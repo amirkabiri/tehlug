@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/amirkabiri/tehlug/compare/v1.0.0...v1.1.0) (2025-11-28)
+
+### ✨ Features
+
+* implement ([a948d65](https://github.com/amirkabiri/tehlug/commit/a948d65543c18831c28cc543f5f84c846a221a3d))
+
 ## 1.0.0 (2025-11-28)
 
 ### ✨ Features

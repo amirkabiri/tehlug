@@ -1,3 +1,9 @@
+## 1.0.0 (2025-11-28)
+
+### ✨ Features
+
+* init ([cb17c26](https://github.com/amirkabiri/tehlug/commit/cb17c26d22acf522a55faab8ef63508507acb730))
+
 ## 1.0.0 (2025-11-10)
 
 ### ✨ Features
